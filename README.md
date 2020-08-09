@@ -11,7 +11,7 @@
   * **1주차 - 개별 개발환경 설정, 계획 README.md 공유**
     * [younggeun0]()
     * [minj0i]()
-    * [rlawjddbs]()
+    * [rlawjddbs](https://github.com/rlawjddbs/ohbokdong_prj/blob/master/README.md)
     * [sgmsgood]()
     * [ch.choi]()
   * 추가예정...
