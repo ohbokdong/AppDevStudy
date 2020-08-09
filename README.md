@@ -10,8 +10,8 @@
 * **학습 내용**
   * **1주차 - 개별 개발환경 설정, 계획 README.md 공유**
     * [younggeun0](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/younggeun0_readme.md.md)
-    * [minj0i]()
+    * [minj0i](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/minj0i_README.md)
     * [rlawjddbs](https://github.com/rlawjddbs/ohbokdong_prj/blob/master/README.md)
-    * [sgmsgood]()
+    * [sgmsgood](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/sgmsgood_readme.md)
     * [ch.choi](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/ccg1120_readme.md)
   * 추가예정...
