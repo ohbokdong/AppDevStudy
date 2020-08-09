@@ -1,4 +1,4 @@
-# Flutter 앱 개발 스터디
+# 앱 개발 스터디
 
 * **2020-08 ~ 2020-?**
 * **진행 방법**
@@ -9,9 +9,9 @@
     * **간트차트 목표 미달성시 추가 개발**
 * **학습 내용**
   * **1주차 - 개별 개발환경 설정, 계획 README.md 공유**
-    * ![younggeun0]()
-    * ![minj0i]()
-    * ![rlawjddbs]()
-    * ![sgmsgood]()
-    * ![ch.choi]()
+    * [younggeun0]()
+    * [minj0i]()
+    * [rlawjddbs]()
+    * [sgmsgood]()
+    * [ch.choi]()
   * 추가예정...
