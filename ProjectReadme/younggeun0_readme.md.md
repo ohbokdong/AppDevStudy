@@ -16,7 +16,7 @@
 
 ## UI 설계
 
-* [UI 설계 MD](https://github.com/younggeun0/TouchBattle/blob/master/ui_design/ui_design.md)
+* [UI 설계 MD](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/younggeun0/ui_design.md)
 
 ## 개발일정
 
