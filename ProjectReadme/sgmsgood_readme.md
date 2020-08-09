@@ -10,7 +10,7 @@
 2. 로그인 페이지
 3. 목표 추가 페이지
 4. 목표 페이지 별 to do list화면
-5. 현황 보여주는 graph 구현 (라이브러리 사용)
+5. 현황 보여주는 graph 구현
 
 ## ui 설계도
 [ui](https://ovenapp.io/project/Oxp2JrYq3NiCnBmnbmQ5jD1FPhBPVvhO#n8Fh5)
