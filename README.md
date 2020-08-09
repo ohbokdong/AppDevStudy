@@ -12,6 +12,6 @@
     * [younggeun0](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/younggeun0_readme.md.md)
     * [minj0i](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/minj0i_README.md)
     * [rlawjddbs](https://github.com/rlawjddbs/ohbokdong_prj/blob/master/README.md)
-    * [sgmsgood]()
+    * [sgmsgood](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/sgmsgood_readme.md)
     * [ch.choi](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/ccg1120_readme.md)
   * 추가예정...
