@@ -119,4 +119,4 @@ For more details see https://docs.gradle.org/6.2/release-notes.html
 Starting a Gradle Daemon (subsequent builds will be faster)
 ```
 
-![welcomeToReact](https://github.com/minj0i/PlantDay/blob/master/note/img/200823/welcomeToReact.png)
+![welcomeToReact](./welcomeToReact.png)
