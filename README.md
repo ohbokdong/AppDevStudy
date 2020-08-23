@@ -15,7 +15,7 @@
     * [sgmsgood](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/sgmsgood_readme.md)
     * [ch.choi](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/ccg1120_readme.md)
   * **2주차(2020-08-23) - 개발 진척상황 공유1**
-    * [younggeun0]()
+    * [younggeun0](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/01/younggeun0.md)
     * [minj0i]()
     * [rlawjddbs]()
     * [sgmsgood]()
