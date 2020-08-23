@@ -14,9 +14,10 @@
     * [rlawjddbs](https://github.com/rlawjddbs/ohbokdong_prj/blob/master/README.md)
     * [sgmsgood](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/sgmsgood_readme.md)
     * [ch.choi](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/ccg1120_readme.md)
-  * **2주차 - 개발 진척상황 공유1, 이번 주 목표 공유 후 개발**
+  * **2주차(2020-08-23) - 개발 진척상황 공유1**
     * [younggeun0]()
     * [minj0i]()
     * [rlawjddbs]()
     * [sgmsgood]()
     * [ch.choi]()
+  * **3주차(2020-08-30) - 개발 진척상황 공유2, 추가 예정...**
