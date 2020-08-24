@@ -23,3 +23,5 @@
 * 8월 - 요구사항 분석, UI 설계
 * 9월 - 개발, 테스트
 * 10월 - 광고추가, release
+
+![간트차트](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/younggeun0/younggeun0_gantt.jpg?raw=true)
