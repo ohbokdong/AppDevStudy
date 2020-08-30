@@ -14,4 +14,4 @@
 #### 2.3. 간략 UI 설계서
 - 
 #### 2.4. Gantt Chart
-![ganttChart](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/rlawjddbs/images/ganttChart.png?raw=true)
+![ganttChart](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/rlawjddbs/images/rlawjddbs_ganttChart.png?raw=true)
