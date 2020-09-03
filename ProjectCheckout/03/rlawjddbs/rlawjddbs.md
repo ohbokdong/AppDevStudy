@@ -129,4 +129,3 @@ npm run ios
 #### ios 시뮬레이터 실행 결과
 ![npm run ios resut](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/npm_run_ios_result.png)   
    
-)   
