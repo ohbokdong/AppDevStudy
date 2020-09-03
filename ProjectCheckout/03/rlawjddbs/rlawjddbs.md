@@ -1,0 +1,132 @@
+**참고문서** : 스무디 한 잔 마시며 끝내는 React Native
+
+# 리액트 네이티브 개발 환경 설정
+## 맥 개발 환경 설정
+
+### 1. 홈브루(Homebrew) 설치
+- 맥에서 패키지를 설치하고 관리할 수 있는 맥용 패키지 관리자
+- 홈브루를 통해 맥에 필요한 패키지를 간단하게 설치할 수 있음
+
+#### 홈브루 설치 과정
+1. [Homebrew 사이트 이동](https://brew.sh)
+2. "Install Homebrew" 항목 밑에 홈브루 설치 명령어를 확인할 수 있음.
+
+![Homebrew official site](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/homebrew_official.png)   
+터미널로 해당 명령어를 실행 후 홈브루 설치
+
+#### 홈브루 설치 결과
+```terminal
+brew --version
+```
+![brew--version](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/brew--version.png)   
+   
+
+### 2. 노드(Node) 설치
+#### 노드 설치 과정
+```terminal
+brew install node@12
+```
+   
+#### 노드 설치 결과
+```terminal
+node --version
+```
+![node--version](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/node--version.png)   
+   
+또한 Node 설치 시 npm도 함께 설치되는 것을 확인할 수 있었음   
+![npm--version](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/npm--version.png)   
+   
+### 3. 왓치맨 설치   
+- 왓치맨은 특정 디렉토리나 파일을 감시하다가, 변경이 발생하면, 특정 동작을 실행(Trigger)하도록 하는 역할을 함
+- 리액트 네이티브는 소스코드의 변경이 발생하면 자동적으로 빌드하고, 디바이스(Device) 또는 시뮬레이터(Simulator)에 업로드하기 위해 왓치맨을 사용 함
+   
+#### 왓치맨 설치 과정
+```terminal
+brew install watchman
+```
+#### 왓치맨 설치 결과
+```terminal
+watchman --version
+```
+![watchman--version](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/watchman--version.png)   
+   
+### 4. 리액트 네이티브 CLI 설치
+#### 리액트 네이티브 CLI 설치 과정
+```terminal
+npm install -g react-native-cli
+```
+   
+#### 리액트 네이티브 CLI 설치 결과
+```terminal
+react-native --version
+```
+![node--version](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/react-native--version.png)   
+   
+### 5. Xcode 설치
+- 이미 설치 됨
+#### Xcode Command Line Tools 설정
+- Preferences > Locations 탭에서 `Command Line Tools` 리스트에서 가장 최신 버전을 선택하여 Coomand Line Tools를 설정
+![node--version](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/xcode_CommnadLineTools.png)   
+   
+### 6. 자바 개발 킷 설치
+- 이미 설치 됨
+
+### 7. 안드로이드 스튜디오 설치
+- Xcode - iOS 개발 툴
+- 안드로이드 스튜디오 - 안드로이드 개발 툴
+   
+#### 안드로이드 스튜디오 설치 과정
+[안드로이드 스튜디오 공식사이트](https://developer.android.com/studio/index.html)에서 Mac OS 용 설치파일 다운로드 후 설치   
+   
+#### 안드로이드 스튜디오 설치 결과
+![Android Studio](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/android_studio.png)   
+
+#### ANDROID_HOME 환경변수 추가
+.bash 파일에 환경변수 설정 함   
+```terminal
+#ANDROID_HOME
+export ANDROID_HOME=/Users/zeongyun/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/tools/bin
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+```
+   
+#### 환경변수 설정 결과
+```terminal
+adb
+```
+![Android Studio](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/adb.png)   
+
+# React Native 개발
+## 1. 리액트 네이티브 프로젝트 생성
+### 노드 패키지 매니저를 통해 설치하는 라이브러리, 모듈들의 버전 고정하기
+```terminal
+npm config set save-exact=true
+```
+
+### 리액트 네이티브 CLI를 사용하여 리액트 네이티브 프로젝트 생성
+```terminal
+react-native init DbsSnake
+```
+#### 리액트 네이티브 프로젝트 생성 결과
+![react-native init result](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/react-native_init_result.png)   
+
+#### Xcode로 DbsSnake 프로젝트 연 후 'Node Binary' 설정
+1. Xcode에서 프로젝트를 불러올 때는 DbsSnake 폴더가 아닌 그 내부의 ios 폴더를 불러와야 한다.
+![xcode open project](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/xcode_open_project.png)   
+
+2. 불러온 후 편집기 상단의 `Build Phases` 탭 메뉴 선택, NODE_BINARY 환경 변수 설정을 실제 사용할 Node가 설치된 경로로 수정
+![xcode build phases set](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/xcode_build_phases_set.png)   
+   
+> 해당 단계를 안 거치면 시뮬레이터 실행시 에러가 발생함.   
+   
+### iOS 시뮬레이터 실행
+```terminal
+cd DbsSnake
+npm run ios
+```
+#### ios 시뮬레이터 실행 결과
+![npm run ios resut](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/npm_run_ios_result.png)   
+   
+)   
