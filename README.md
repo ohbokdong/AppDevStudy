@@ -26,4 +26,4 @@
     * [rlawjddbs](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/02/rlawjddbs.md)
     * [sgmsgood](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/02/sgmsgood.md)
     * [ch.choi](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/02/ch.choi.md)
-  * **4주차(2020-08-30) - 개발 진척상황 공유3, 추가 예정...**
+  * **4주차(2020-09-06) - 개발 진척상황 공유3, 추가 예정...**
