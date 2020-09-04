@@ -129,3 +129,10 @@ npm run ios
 #### ios 시뮬레이터 실행 결과
 ![npm run ios resut](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/npm_run_ios_result.png)   
    
+### Android 시뮬레이터 실행
+```terminal
+npm run android
+```
+   
+#### Android 시뮬레이터 실행 결과
+![npm run android resut](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/npm_run_android_result.png)   
