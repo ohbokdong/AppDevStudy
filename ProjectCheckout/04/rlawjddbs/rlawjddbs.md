@@ -2,7 +2,7 @@
 ### 프로젝트 진척상황
 ![snake game](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/rlawjddbs/images/snake_game.png)
 ![warning](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/rlawjddbs/images/warning.png)   
-- snake 오픈 소스 적용 완료 [lepunk-github](https://github.com/lepunk/react-native-videos/tree/master/Snake)
+- snake 오픈 소스 적용 완료
 - 탭, 스와이프 두 가지 방식으로 화면 전환 적용 완료
 
 ### 이번주 목표(TO DO)
