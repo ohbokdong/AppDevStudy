@@ -63,13 +63,13 @@ react-native --version
 ![node--version](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/react-native--version.png)   
    
 ### 5. Xcode 설치
-- 이미 설치 됨
+- 이미 설치 됨 (Version 11.7 (11E801a))
 #### Xcode Command Line Tools 설정
 - Preferences > Locations 탭에서 `Command Line Tools` 리스트에서 가장 최신 버전을 선택하여 Coomand Line Tools를 설정
 ![node--version](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/xcode_CommnadLineTools.png)   
    
 ### 6. 자바 개발 킷(JDK) 설치
-- 이미 설치 됨
+- 이미 설치 됨 (java version "1.8.0_191")
 
 ### 7. 안드로이드 스튜디오 설치
 - Xcode - iOS 개발 툴
