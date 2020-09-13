@@ -68,7 +68,7 @@ react-native --version
 - Preferences > Locations 탭에서 `Command Line Tools` 리스트에서 가장 최신 버전을 선택하여 Coomand Line Tools를 설정
 ![node--version](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/rlawjddbs/images/xcode_CommnadLineTools.png)   
    
-### 6. 자바 개발 킷 설치
+### 6. 자바 개발 킷(JDK) 설치
 - 이미 설치 됨
 
 ### 7. 안드로이드 스튜디오 설치
