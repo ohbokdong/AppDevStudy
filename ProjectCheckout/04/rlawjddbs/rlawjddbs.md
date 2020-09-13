@@ -3,7 +3,7 @@
 ![snake game](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/rlawjddbs/images/snake_game.png)
 ![warning](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/rlawjddbs/images/warning.png)   
 - snake 오픈 소스 적용 완료
-- 탭, 스와이프 두 가지 방식으로 화면 전환 적용 완료
+- 뱀의 이동방향 전환 : 탭, 스와이프 두 가지 형태로 구현
 
 ### 이번주 목표(TO DO)
 - 동적인 애니메이션 효과로 뱀의 움직임을 좀 더 부드럽게 만들 수 있는지 확인
