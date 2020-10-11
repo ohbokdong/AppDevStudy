@@ -37,7 +37,7 @@
   * **5회차(2020-10-11) - 개발 진척상황 공유4**
     * [younggeun0](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/younggeun0.md)
     * [minj0i](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/minj0i.md)
-    * [rlawjddbs](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/rlawjddbs/rlawjddbs.md)
+    * [rlawjddbs](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/rlawjddbs.md)
     * [sgmsgood](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/sgmsgood.md)
     * [ch.choi](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/ch.choi.md)
   
