@@ -34,8 +34,15 @@
     * [sgmsgood](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/sgmsgood.md)
     * [ch.choi](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/03/ch.choi.md)
 
-  * **5주차(2020-09-27) - 개발 진척상황 공유4, 추가 예정...**
-  * **6주차(2020-10-11) - 개발 진척상황 공유5, 추가 예정...**
+  * **5회차(2020-10-11) - 개발 진척상황 공유4**
+    * [younggeun0](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/younggeun0.md)
+    * [minj0i](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/minj0i.md)
+    * [rlawjddbs](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/rlawjddbs/rlawjddbs.md)
+    * [sgmsgood](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/sgmsgood.md)
+    * [ch.choi](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/04/ch.choi.md)
+  
+
+  * **6회차(2020-10-?) - 개발 진척상황 공유5, 추가 예정...**
  
 
 
