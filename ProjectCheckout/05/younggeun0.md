@@ -6,7 +6,7 @@
 
 * 구글 플레이스토어에 `ODODODO`로 배포
 
-![odododo]()
+![odododo](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectReadme/younggeun0/img/playstore.png?raw=true)
 
 ### 이번주 목표(TO DO)
 
