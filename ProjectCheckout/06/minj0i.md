@@ -11,7 +11,7 @@
 
 * 현재DB 구조
 ![현재DB](../../ProjectReadme/assets-minj0i/img/c-db.png)
-
+![현재DB2](../../ProjectReadme/assets-minj0i/img/c-db2.png)
 
 > ### 이번주 목표(TO DO)
 * CRUD
