@@ -57,6 +57,6 @@
       * [sgmsgood](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/06/sgmsgood.md)
       * [ch.choi](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/06/ch.choi.md)
     
- * **8회차(2020-11-29) - 최종 결산**
+  * **8회차(2020-11-29) - 최종 결산**
 
 
