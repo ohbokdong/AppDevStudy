@@ -50,7 +50,13 @@
     * [ch.choi](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/05/ch.choi.md)
   
 
-  * **7회차(2020-11-01) - 중간 결산 예정**
+  * **7회차(2020-11-01) - 중간 결산**
+     * [younggeun0](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/06/younggeun0.md)
+      * [minj0i](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/06/minj0i.md)
+      * [rlawjddbs](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/06/rlawjddbs.md)
+      * [sgmsgood](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/06/sgmsgood.md)
+      * [ch.choi](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/06/ch.choi.md)
+    
  
 
 
