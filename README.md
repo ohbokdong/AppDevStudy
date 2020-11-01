@@ -1,6 +1,6 @@
 # 앱 개발 스터디
 
-* **2020-08 ~ 2020-?**
+* **2020-08 ~ 2020-11**
 * **진행 방법**
   * **주 중**
     * 간트차트 기반으로 개발 진행
@@ -57,6 +57,6 @@
       * [sgmsgood](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/06/sgmsgood.md)
       * [ch.choi](https://github.com/ohbokdong/AppDevStudy/blob/master/ProjectCheckout/06/ch.choi.md)
     
- 
+ * **8회차(2020-11-29) - 최종 결산**
 
 
